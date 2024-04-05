@@ -1,0 +1,7 @@
+#Fri Apr 05 15:56:32 IST 2024
+base.1=D\:\\PPP_Practicals_Builds\\PROJECT_BUILDING\\DocDive\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out
+path.1=classes.dex
+base.0=D\:\\PPP_Practicals_Builds\\PROJECT_BUILDING\\DocDive\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex
